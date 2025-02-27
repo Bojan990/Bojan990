@@ -8,7 +8,7 @@ I am software developer who work on C# program language!
 
 * 🌍  I'm based in Bor, Serbia
 * ✉️  You can contact me at [jevdjicbojan90@gmail.com](mailto:jevdjicbojan90@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Phyton
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
