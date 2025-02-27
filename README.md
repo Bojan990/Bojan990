@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am software developer who work on C# program language!
+I am software developer who work on Python program language!
 
 * 🌍  I'm based in Bor, Serbia
 * ✉️  You can contact me at [jevdjicbojan90@gmail.com](mailto:jevdjicbojan90@gmail.com)
